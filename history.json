@@ -1,0 +1,12 @@
+[
+    {
+        "name": "R RAVI CHANDRA",
+        "skills": [
+            "python",
+            "sql",
+            "data visualization"
+        ],
+        "top_recommendation": "Data Scientist",
+        "match_score": 40.0
+    }
+]
